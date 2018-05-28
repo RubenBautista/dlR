@@ -9,7 +9,7 @@
    </head>
 
 <head>
-    <title>Portal informativo de Peliculas Online - POIP</title>
+    <title>TV SHOW</title>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/grid_12.css">

@@ -1,0 +1,26 @@
+/* Global properties ======================================================== */
+html, body {width:100%; height:100%;   padding:0; margin:0;}
+
+body { 	 
+	font: 20px/28px Tahoma, Geneva, sans-serif;
+	color:#636f6f;
+	min-width:964px;
+	background: #000;
+}
+
+/***********************************************************************/
+
+h2 { font-size:13px; line-height:32px; color:#fff; font-weight:normal;}
+h3 { font-size:13px; line-height:24px; color:#fff; font-weight:normal;}
+h4 { font-size:8px; line-height:24px; color:#fff; font-weight:normal;}
+h5 { font-size:13px; line-height:24px; color:#fff; font-weight:normal;}
+
+
+
+/*********************************content*************************************/
+#content {width:1160px;   margin:0 auto;  position:relative;}
+
+
+/****************************footer************************/
+footer { font-size:15px; width:940px; margin:0 auto; position:relative; overflow:hidden; padding:27px 0 40px 0; background:url(../images/line.png) 0 0 repeat-x;} 
+footer h3 {padding-bottom:15px;}
